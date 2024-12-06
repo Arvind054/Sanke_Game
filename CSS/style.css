@@ -12,8 +12,8 @@
     align-items: center;
 }
 .board{
-    width: 90vmin;
-    height: 92vmin;
+    width: 80vmin;
+    height: 85vmin;
     display: grid;
     grid-template-columns: repeat(20, 1fr);
     grid-template-rows: repeat(20, 1fr);
